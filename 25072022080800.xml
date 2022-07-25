@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-07-25 19:19">
+	<shop>
+		<name>
+			<![CDATA[Наша фирма]]></name>
+		<company>
+			<![CDATA[ООО "Наша фирма"]]></company>
+		<url/>
+		<currencies>
+			<currency id="RUB" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1">Без категории</category>
+		</categories>
+		<offers>
+			<offer id="72adace1-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Средство для мытья посуды SYNERGETIC Лимон, 500мл]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>202</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="72adace2-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Средство для мытья посуды FAIRY Нежные руки Чайное дерево и Мята, 450мл]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>177</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="72adace3-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Средство для мытья посуды FAIRY Нежные руки Чайное дерево и Мята, 900мл]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>289</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="72adace4-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Средство для мытья посуды FAIRY Нежные руки Розовый жасмин и Алоэ вера, 900мл]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>299</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="72adace6-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Шашлык из филе бедра индейки в маринаде медово–горчичном, весовой]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>720</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="72adace8-e5cc-11ec-9ccf-001bdc067e64">
+				<name>
+					<![CDATA[Колбаски для гриля ИНДИЛАЙТ, 500г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>366</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="81db89d9-ea3f-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой JARDIN Colombia Supremo, 250г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>726</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="81db89db-ea3f-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Вареники ЦЕЗАРЬ с картофелем и жареным лучком, 600г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>332</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="81db89df-ea3f-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Блинчики СОЛНЦЕПЕК с творожной начинкой и лимоном, 360г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>169</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbb7-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Пятновыводитель порошковый для тканей VANISH Oxi Action Кристальная белизна, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>909</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbb8-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Пятновыводитель жидкий для белых тканей VANISH Oxi Action Кристальная белизна, 450мл]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>246</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbba-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой 365 ДНЕЙ жареный, 800г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>505</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbbb-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой DOLCE ALBERO Arabica 100%, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2021</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbbd-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой LALIBELA COFFEE Classic натуральный жареный, 250г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>453</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbbe-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой COSTA Bright blend натуральный средняя обжарка, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2540</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbbf-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой LAVAZZA Caffe Decaffeinato натуральный жареный, 500г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1940</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc0-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой LAVAZZA Qualita Oro натуральный жареный, 500г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1833</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc1-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой STARBUCKS Espresso Roast жареный, 200г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>832</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc2-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой JULIUS MEINL Юбилейный натуральный жареный, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2665</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc3-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой JULIUS MEINL Президент натуральный жареный, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2665</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc4-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой CARTE NOIRE Crema Délice жареный натуральный, 230г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>909</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc5-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой CARTE NOIRE натуральный жареный, 230г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>909</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc6-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой BUSHIDO Red Katana Beans Pack, 227г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>834</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc7-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой BUSHIDO Sensei Beans Pack, 227г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>834</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc8-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой COSTA Bright blend натуральный средняя обжарка, 200г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>553</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbc9-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой LAVAZZA Espresso Barista Perfetto натуральный жареный, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>3309</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbca-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой BUSHIDO Black Beans Pack, 227г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>911</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbcc-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой JARDIN Кафе Эклер жареный, 250г]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>675</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbcd-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой ЧЕРНАЯ КАРТА, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1462</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="9490dbce-f1ab-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Кофе зерновой ЧЕРНАЯ КАРТА Gold натуральный жареный, 1кг]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2341</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36a7-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток плодовый алкогольный SANTO STEFANO Вермут Бьянко особый сладкое, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>505</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36a8-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток плодовый алкогольный SANTO STEFANO Аперини особый сладкое, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>505</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36a9-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток спиртной аперитив APEROL, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>2274</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36aa-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток виноградосодержащий CINZANO Вермут Экстра Драй из виноградного сырья белый полусухой, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1389</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36ab-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток ароматизированный MARTINI Extra Dry белый экстра сухой, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36ac-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Промо-набор: Напиток виноградосодержащий MARTINI Fiero cладкий + Тоник SANPELLEGRINO, 2x0.33л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36ad-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Промо-набор: Напиток виноградосодержащий MARTINI Bianco cладкий, 1л + Тоник SANPELLEGRINO, 2x0.33л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36ae-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток ароматизированный MARTINI Rosso виноградосодержащий из виноградного сырья красный сладкий, 1]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36af-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток ароматизированный MARTINI Fiero сладкий, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+			<offer id="3d1f36b0-f1b6-11ec-9cd1-001bdc067e64">
+				<name>
+					<![CDATA[Напиток ароматизированный MARTINI Bianco белый сладкий, 1л]]></name>
+				<vendor>
+					<![CDATA[]]></vendor>
+				<url/>
+				<price>1768</price>
+				<currencyId>RUR</currencyId>
+				<picture/>
+				<description/>
+				<country_of_origin>
+					<![CDATA[]]></country_of_origin>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
